@@ -1,0 +1,5 @@
+Tarea map-reduce
+Calificación: 0.8/2
+El ejercicio 3, pide usar únicamente map
+Errores de compilación
+Tarea atrasada!!!
