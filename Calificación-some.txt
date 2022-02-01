@@ -1,0 +1,5 @@
+Tarea some
+Calificación 1.0 /2.0
+La funciones deben retornar un valor
+La búsqueda de cadenas de longitud mayor que 10, debe utilizar el método length
+Tarea atrasada!!!
